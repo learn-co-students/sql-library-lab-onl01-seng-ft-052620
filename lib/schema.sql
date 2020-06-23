@@ -10,6 +10,8 @@ CREATE TABLE authors(
     name TEXT
 );
 
+
+
 CREATE TABLE series(
     id INTEGER PRIMARY KEY,
     title TEXT, 
